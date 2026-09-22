@@ -8,7 +8,7 @@
     - Nombre Usuario: SergioGarciiaa
   - Alejandro Rodado López de la Reina
     - a.rodado.2025@alumnos.urjc.es
-    - Nombre Usuario: alejandroro
+    - Nombre Usuario: AlejandroRodado
 
 ## LINK TRELLO
 Link: https://trello.com/invite/b/6ab284c74b837ac9cd0b6a89/ATTI28a13e41eafdf2138aa4e0254a875015243cO7E1/step-up-web
