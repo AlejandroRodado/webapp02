@@ -25,7 +25,7 @@ Link: https://trello.com/invite/b/6ab284c74b837ac9cd0b6a89/ATTI28a13e41eafdf2138
         - Sport
         - Description
         - Stock
-        - Photo (cada una tendrá su foto principal y después se incluirán mas fotos de distintas vistas).
+        - Photo (cada una tendrá su foto principal y después se incluirán mas fotos de distintas vistas).    
 **Inventario Productos** (excel): *Trabajando en ello...*
 
     - **Entidad Secundaria: Reseña**
