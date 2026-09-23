@@ -1,21 +1,21 @@
 # STEP-UP
-## Integrantes del grupo:
-  - Raúl Cabezas Vallecillo. 
+## INTEGRANTES DEL GRUPO
+  - **Raúl Cabezas Vallecillo** 
     - r.cabezas.2025@alumnos.urjc.es 
     - Nombre Usuario: Raul-Bucle-Infinito
-  - Sergio García García
+  - **Sergio García García**
     - s.garciaga.2025@alumnos.urjc.es
     - Nombre Usuario: SergioGarciiaa
-  - Alejandro Rodado López de la Reina
+  - **Alejandro Rodado López de la Reina**
     - a.rodado.2025@alumnos.urjc.es
     - Nombre Usuario: AlejandroRodado
 
-## LINK TRELLO
+## HERRAMIENTA DE ORGANIZACIÓN (Trello)
 Link: https://trello.com/invite/b/6ab284c74b837ac9cd0b6a89/ATTI28a13e41eafdf2138aa4e0254a875015243cO7E1/step-up-web
 
-## Funcionalidad
+## FUNCIONALIDAD
 - Entidades:
-    - Entidad Principal: Zapatilla
+    - **Entidad Principal: Zapatilla**
         - Id_Zapatilla
         - Nombre
         - Marca
@@ -26,11 +26,11 @@ Link: https://trello.com/invite/b/6ab284c74b837ac9cd0b6a89/ATTI28a13e41eafdf2138
         - Descripción
         - Stock
         - Imagen (cada una tendrá su foto principal y después se incluirán mas fotos de distintas vistas).
-    - Entidad Secundaria: Reseña
+    - **Entidad Secundaria: Reseña**
         - Texto
         - Valoración
         - Usuario
         - Fecha
 
-## Buscador, Filtrado o Categorización
-Se incluirá un filtro o buscador para encontrar más sencillamente una zapatilla, basándote en la marca, talla, color, precio.
+## BUSCADOR, FILTRADO o CATEGORIZACIÓN
+Se incluirá un Buscador de modelo único para la entidad principal, pudiendo filtrar la búsqueda en función de los atributos que categorizan el producto como la marca, el precio o el deporte. 
