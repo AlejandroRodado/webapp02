@@ -17,20 +17,24 @@ Link: https://trello.com/invite/b/6ab284c74b837ac9cd0b6a89/ATTI28a13e41eafdf2138
 - Entidades:
     - **Entidad Principal: Zapatilla**
         - Id_Zapatilla
-        - Nombre
-        - Marca
-        - Precio
-        - Talla
-        - Color
-        - Deporte
-        - Descripción
+        - Name
+        - Brand
+        - Price
+        - Size
+        - Colour
+        - Sport
+        - Description
         - Stock
-        - Imagen (cada una tendrá su foto principal y después se incluirán mas fotos de distintas vistas).
+        - Photo (cada una tendrá su foto principal y después se incluirán mas fotos de distintas vistas).
+**Inventario Productos** (excel): *Trabajando en ello...*
+
     - **Entidad Secundaria: Reseña**
-        - Texto
-        - Valoración
-        - Usuario
-        - Fecha
+        - Tex
+        - Rating
+        - User
+        - Date
 
 ## BUSCADOR, FILTRADO o CATEGORIZACIÓN
-Se incluirá un Buscador de modelo único para la entidad principal, pudiendo filtrar la búsqueda en función de los atributos que categorizan el producto como la marca, el precio o el deporte. 
+Se incluirá un Buscador de modelo único para la entidad principal, pudiendo filtrar la búsqueda en función de los atributos que categorizan el producto como la marca, el precio o el deporte.
+
+
